@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eX0Sk270x3qtUz9OZNlLJh+sQ36fPk05lgsU/E1Bmq0ZpvOtLQly3mPlg4nfU/DBZopzi9PjANZppYQGr9UZDQ==",
+  "success": true,
+  "projectFilePath": "/Users/allanr.flores/Documents/GitHubRepositories/game-projects/AMAZEingGameV2/AMAZEingGameV2/AMAZEingGameV2.csproj",
+  "expectedPackageFiles": [
+    "/Users/allanr.flores/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/allanr.flores/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
