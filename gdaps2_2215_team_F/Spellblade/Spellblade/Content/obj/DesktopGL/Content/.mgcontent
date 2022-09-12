@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/blackSquare.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/CastleBackground.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/castleTileset.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/charSheet.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/healthBar.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/healthBarExtension.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/HUD Text Box Alt.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/Level1Background.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/Level2Background.jpg</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/manaBar.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/manaBarExtension.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/necromancer_projectile_spritesheet.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/NecromancerTexture.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/playerChar.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/playerCharCollision.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/projectileSheet.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/projectileTexture.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/reaper_projectile_spritesheet.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/ReaperTexture.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/Skeleton_Mage.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/Skeleton_Warrior.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/skeletonWarriorTexture.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/skeletonWizardTexture.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/space_background.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/space_tile_set.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/tileset.png</File>
+    <File>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/TitleFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -180,11 +180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itsal\\source\\repos\\game-projects\\Minesweeper\\Minesweeper.csproj",
+      "projectUniqueName": "C:\\Users\\itsal\\source\\repos\\Portfolio\\Minesweeper\\Minesweeper.csproj",
       "projectName": "Minesweeper",
-      "projectPath": "C:\\Users\\itsal\\source\\repos\\game-projects\\Minesweeper\\Minesweeper.csproj",
+      "projectPath": "C:\\Users\\itsal\\source\\repos\\Portfolio\\Minesweeper\\Minesweeper.csproj",
       "packagesPath": "C:\\Users\\itsal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itsal\\source\\repos\\game-projects\\Minesweeper\\obj\\",
+      "outputPath": "C:\\Users\\itsal\\source\\repos\\Portfolio\\Minesweeper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

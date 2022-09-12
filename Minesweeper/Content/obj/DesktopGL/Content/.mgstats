@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/defaultFont.spritefont","C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/bin/DesktopGL/Content/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.1555429
+"C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/smallTextFont.spritefont","C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/bin/DesktopGL/Content/smallTextFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.0096663
+"C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/TileTextures.png","C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/bin/DesktopGL/Content/TileTextures.xnb","TextureProcessor","Texture2DContent",388,8277,0.0058471
+"C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/titleFont.spritefont","C:/Users/itsal/source/repos/Portfolio/Minesweeper/Content/bin/DesktopGL/Content/titleFont.xnb","FontDescriptionProcessor","SpriteFontContent",2080,267298,0.0289861

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/itsal/source/repos/gdaps2_2215_team_F/Spellblade/Spellblade/Content/Skeleton_Warrior.png</SourceFile>
-  <SourceTime>2022-05-10T14:05:41.8564377-04:00</SourceTime>
-  <DestFile>C:/Users/itsal/source/repos/gdaps2_2215_team_F/Spellblade/Spellblade/Content/bin/DesktopGL/Content/Skeleton_Warrior.xnb</DestFile>
-  <DestTime>2022-05-10T21:44:41.09784-04:00</DestTime>
+  <SourceFile>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/Skeleton_Warrior.png</SourceFile>
+  <SourceTime>2022-09-11T20:51:09.3239825-04:00</SourceTime>
+  <DestFile>C:/Users/itsal/source/repos/Portfolio/gdaps2_2215_team_F/Spellblade/Spellblade/Content/bin/DesktopGL/Content/Skeleton_Warrior.xnb</DestFile>
+  <DestTime>2022-09-11T20:51:58.7560435-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

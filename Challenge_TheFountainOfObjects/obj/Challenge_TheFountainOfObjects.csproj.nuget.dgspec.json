@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itsal\\source\\repos\\PlayersGuideChallenges\\Part 2 - Object-Oriented Programming\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj": {}
+    "C:\\Users\\itsal\\source\\repos\\Portfolio\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itsal\\source\\repos\\PlayersGuideChallenges\\Part 2 - Object-Oriented Programming\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj": {
+    "C:\\Users\\itsal\\source\\repos\\Portfolio\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itsal\\source\\repos\\PlayersGuideChallenges\\Part 2 - Object-Oriented Programming\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj",
+        "projectUniqueName": "C:\\Users\\itsal\\source\\repos\\Portfolio\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj",
         "projectName": "Challenge_TheFountainOfObjects",
-        "projectPath": "C:\\Users\\itsal\\source\\repos\\PlayersGuideChallenges\\Part 2 - Object-Oriented Programming\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj",
+        "projectPath": "C:\\Users\\itsal\\source\\repos\\Portfolio\\Challenge_TheFountainOfObjects\\Challenge_TheFountainOfObjects.csproj",
         "packagesPath": "C:\\Users\\itsal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itsal\\source\\repos\\PlayersGuideChallenges\\Part 2 - Object-Oriented Programming\\Challenge_TheFountainOfObjects\\obj\\",
+        "outputPath": "C:\\Users\\itsal\\source\\repos\\Portfolio\\Challenge_TheFountainOfObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

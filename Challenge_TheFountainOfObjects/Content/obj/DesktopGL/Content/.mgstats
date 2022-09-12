@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/itsal/source/repos/Portfolio/Challenge_TheFountainOfObjects/Content/defaultFont.spritefont","C:/Users/itsal/source/repos/Portfolio/Challenge_TheFountainOfObjects/Content/bin/DesktopGL/Content/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2066,37922,0.164314
+"C:/Users/itsal/source/repos/Portfolio/Challenge_TheFountainOfObjects/Content/Rooms.png","C:/Users/itsal/source/repos/Portfolio/Challenge_TheFountainOfObjects/Content/bin/DesktopGL/Content/Rooms.xnb","TextureProcessor","Texture2DContent",221,8277,0.0061247
+"C:/Users/itsal/source/repos/Portfolio/Challenge_TheFountainOfObjects/Content/textSmallFont.spritefont","C:/Users/itsal/source/repos/Portfolio/Challenge_TheFountainOfObjects/Content/bin/DesktopGL/Content/textSmallFont.xnb","FontDescriptionProcessor","SpriteFontContent",2066,21538,0.0093473
