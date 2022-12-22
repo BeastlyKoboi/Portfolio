@@ -14,6 +14,6 @@ This website utilizes the [Cheapshark API](https://apidocs.cheapshark.com/) to l
 
 ### [A Fine Match! - A Matching Game](https://people.rit.edu/arf7094/235/project3/)
 
-
+A fast paced mix between a memory match game and a turn-based battler. Try to match cards to progress in the battle, all while under a short time limit. You play a novice Cardcaster that is attempting to make their way through a dangerous hilly area, where they will fight their first battles in their journey to become the greatest mage ever and more currently, get out alive. You progress through the hills into a valley fighting sturdier enemies as you go. 
 
 
