@@ -6,7 +6,7 @@ This repo contains the projects that I, Allan Flores, have worked on in the past
 
 ### [Personal Website](https://people.rit.edu/arf7094/235/project1/)
 
-A website that details many of my projects (personal and academic), my resume, and contact information. 
+A (deprecated) portfolio website that details many of my projects (personal and academic), my resume, and contact information. A newer version using React and MUI is under construction. 
 
 ### [The Greedy Gamer Gizmo](https://people.rit.edu/arf7094/235/project2/)
 
